@@ -1,3 +1,2 @@
-This is the constitution for a club.
-
-It's super cool
+#This is the constitution for a club.
+##It's super cool
